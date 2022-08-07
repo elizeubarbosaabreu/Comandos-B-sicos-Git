@@ -1,6 +1,9 @@
 # Aprendizado GitHub
 
 Aprendendo no site [dio.me](https://dio.me)
+professor: Venilton FalvoJr
+
+[Slide](apostila.pptx)
 
 ## Comandos Básicos do Git
 
