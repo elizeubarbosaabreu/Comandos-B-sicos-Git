@@ -10,6 +10,10 @@ Baixar [Slide](https://github.com/elizeubarbosaabreu/aulagithub/raw/09da4ee99f87
 >> O importante é aprender de verdade, não aprender rápido! (pensamento meu mesmo, rsrs)
 ## Comandos Básicos do Git
 
+- comando para clonar um repositório:
+~~~
+git clone git@github.com:usuario/repositorio.git
+~~~
 - comando para inicializar o git em um repositório local:
 ~~~
 git init
@@ -26,9 +30,9 @@ git status -s
 ~~~
 git add nomedoarquivo
 ~~~
-- comando para clonar um repositório:
+- comitar um arquivo:
 ~~~
-git clone git@github.com:usuario/repositorio.git
+git commit -m "<resumo das alterações>"
 ~~~
 - comando para empurrar um repositório:
 ~~~
