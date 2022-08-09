@@ -1,4 +1,4 @@
-# Aprendizado GitHub
+# Comandos Básicos do Git
 
 Aprendendo no site [dio.me](https://dio.me)
 
